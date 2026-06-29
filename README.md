@@ -7,4 +7,4 @@ We are creating the coding-for-science notebook collection here - testing differ
 ### Medical
 | Organ | Modality | Structure | Task | Labels | Notebook |
 |--------|--|----|-----|-----|---------|
-| Retina | CFP | Vessel | Segmentation | None | [retinal-vessel-segmentation-unlabelled.ipynb](retinal-vessel-segmentation-unlabelled.ipynb) |
+| Retina | CFP | Vessel | Segmentation | None | [retina-cfp-vessel-segmentation-unlabelled.ipynb](retina-cfp-vessel-segmentation-unlabelled.ipynb) |
