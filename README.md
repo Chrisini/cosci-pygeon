@@ -8,3 +8,9 @@ We are creating the coding-for-science notebook collection here - testing differ
 │   │      ├── [frangi.py](segmentation/frangi.py)
 │   │      ├── [-](-)
 │   │      └── [-](-)
+
+
+retina/
+└── vessel/
+    └── segmentation/
+        - [frangi.py](retina/vessel/segmentation/frangi.py)
