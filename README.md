@@ -7,5 +7,5 @@ We are creating the coding-for-science notebook collection here - testing differ
 ### Medical
 | Organ | Modality | Structure | Task | Labels | Notebook |
 |--------|--|----|-----|-----|---------|
-| Retina | CFP | Vessel | Segmentation | None | [retina-cfp-vessel-segmentation-unlabelled.ipynb](retina-cfp-vessel-segmentation-unlabelled.ipynb) |
+| Retina | CFP | Vessel | Segmentation | None | [retina_cfp_vessel_segmentation_unlabelled.ipynb](retina_cfp_vessel_segmentation_unlabelled.ipynb) |
 | Retina | CFP | Optic Disc | Segmentation | None | [retina_cfp_od_segmentation_unlabelled.ipynb](retina_cfp_od_segmentation_unlabelled.ipynb) |
