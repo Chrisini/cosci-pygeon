@@ -8,4 +8,4 @@ We are creating the coding-for-science notebook collection here - testing differ
 | Organ | Modality | Structure | Task | Labels | Notebook |
 |--------|--|----|-----|-----|---------|
 | Retina | CFP | Vessel | Segmentation | None | [retina-cfp-vessel-segmentation-unlabelled.ipynb](retina-cfp-vessel-segmentation-unlabelled.ipynb) |
-| Retina | CFP | Optic Disc | Segmentation | None | [retina-cfp-od-segmentation-unlabelled.ipynb](retina-cfp-od-segmentation-unlabelled.ipynb) |
+| Retina | CFP | Optic Disc | Segmentation | None | [retina_cfp_od_segmentation_unlabelled.ipynb](retina_cfp_od_segmentation_unlabelled.ipynb) |
